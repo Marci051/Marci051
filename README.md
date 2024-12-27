@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently improving my skills as a Front-end Developer.<br>👯 I’m looking to collaborate on exciting Front-end Projects.<br>🌱 I’m currently learning JavaScript and expanding my knowledge in modern web technologies.<br>📱📚 I’m deeply interested in Media Literacy and how it shapes the digital world.<br>🎮 Fun Fact: I enjoy playing video games like CSS, CS:GO, CS2, Valorant, and many more!
+🔭 I’m currently improving my skills as a Front-end Developer.<br>👯 looking to collaborate on exciting Front-end Projects.<br>🌱 currently learning JavaScript and expanding my knowledge in modern web technologies.<br>📱📚 deeply interested in Media Literacy and how it shapes the digital world.<br>🎮 Fun Fact: I enjoy playing video games like CSS, CS:GO, CS2, Valorant, and many more!
 
 
 ## 🌐 Socials:
